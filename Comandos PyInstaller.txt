@@ -1,0 +1,1 @@
+pyinstaller --noconsole --icon='.\certidoes.ico' --add-data='.\certidoes.ico:.' .\Certidões\certidoes.py
